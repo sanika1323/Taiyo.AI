@@ -1,0 +1,9 @@
+/* src/App.css */
+.App {
+  display: flex;
+}
+
+.content {
+  margin-left: 260px; /* Width of the sidebar + some margin */
+  padding: 20px;
+}
